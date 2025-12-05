@@ -1,0 +1,58 @@
+name: wilma.murphy
+description: intranet
+version: 0.0.1
+author: sjkyh8it.ppgsxcxd@8srniyu7.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: wilmamurphy
+  parentArtefactID: team1764974951864
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:49:13'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:49:13'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:49:13.161204Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1261441843'
+  createdAt: '2025-12-05T22:49:13.161204Z'
+  type: plibMaven
+projectDependencies:
+  '459':
+    projectUID: 459
+    projectName: bethann.reilly
+    repositoryPath: gitUri=http://gitserver:3000/dev_A1x75YWT_team_752/dev_A1x75YWT_project_459.git&subPath=
+    version: bethann.reilly/9.9.222
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:49:13'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
